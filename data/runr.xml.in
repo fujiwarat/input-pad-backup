@@ -4,7 +4,7 @@
     <group>
       <_name>Runes</_name>
       <table>
-	<_name>Runes (Unicode Block)</_name>
+	<_name>Unicode Block</_name>
         <string>
           <label>ᚠ</label>
           <comment>Feoh</comment>
