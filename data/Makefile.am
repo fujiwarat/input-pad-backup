@@ -31,7 +31,7 @@ pad_in_files = \
 	base.xml.in                                             \
 	ja.xml.in                                               \
 	zh.xml.in                                               \
-	runr.xml.in                                               \
+	runr.xml.in                                             \
 	str.xml.in                                              \
 	w3c.xml.in                                              \
 	cmd.xml.in                                              \
