@@ -3,14 +3,19 @@
   <pad _name="runes">
     <group>
       <_name>Runes</_name>
-<!--      <table>
+<!-- FIXME: Complete the Unicode Block -->
+<!--
+      <table>
+        <column>10</column>
         <_name>Unicode Block</_name>
         <string>
           <label>ᚠ</label>
           <comment>Runic Letter Fehu Feoh Fe F</comment>
         </string>
-      </table>-->
+      </table>
+-->
       <table>
+        <column>10</column>
         <_name>Elder Fuþark</_name>
         <string>
           <label>ᚠ</label>
@@ -110,6 +115,7 @@
         </string>
       </table>
       <table>
+        <column>10</column>
         <_name>Younger Fuþark</_name>
         <string>
           <label>ᚠ</label>
@@ -217,6 +223,7 @@
         </string>
       </table>
       <table>
+        <column>10</column>
         <_name>Fuþorc</_name>
         <string>
           <label>ᚠ</label>
