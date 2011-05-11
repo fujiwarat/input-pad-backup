@@ -3,13 +3,13 @@
   <pad _name="runes">
     <group>
       <_name>Runes</_name>
-      <table>
+<!--      <table>
 	<_name>Unicode Block</_name>
         <string>
           <label>ᚠ</label>
           <comment>Runic Letter Fehu Feoh Fe F</comment>
         </string>
-      </table>
+      </table>-->
       <table>
 	<_name>Elder Fuþark</_name>
         <string>
