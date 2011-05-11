@@ -4,14 +4,14 @@
     <group>
       <_name>Runes</_name>
 <!--      <table>
-	<_name>Unicode Block</_name>
+        <_name>Unicode Block</_name>
         <string>
           <label>ᚠ</label>
           <comment>Runic Letter Fehu Feoh Fe F</comment>
         </string>
       </table>-->
       <table>
-	<_name>Elder Fuþark</_name>
+        <_name>Elder Fuþark</_name>
         <string>
           <label>ᚠ</label>
           <comment>Fehu</comment>
@@ -106,7 +106,7 @@
         </string>
       </table>
       <table>
-	<_name>Younger Fuþark</_name>
+        <_name>Younger Fuþark</_name>
         <string>
           <label>ᚠ</label>
           <comment>Fé</comment>
@@ -213,7 +213,7 @@
         </string>
       </table>
       <table>
-	<_name>Fuþorc</_name>
+        <_name>Fuþorc</_name>
         <string>
           <label>ᚠ</label>
           <comment>Feoh</comment>
@@ -271,83 +271,83 @@
           <comment>Peorð</comment>
         </string>
         <string>
-	  <label>ᛉ</label>
+          <label>ᛉ</label>
           <comment>Eolh</comment>
         </string>
         <string>
-	  <label>ᛋ</label>
+          <label>ᛋ</label>
           <comment>Sigel</comment>
         </string>
         <string>
-	  <label>ᛏ</label>
+         <label>ᛏ</label>
           <comment>Tiƿ</comment>
         </string>
         <string>
-	  <label>ᛒ</label>
+          <label>ᛒ</label>
           <comment>Beorc</comment>
         </string>
         <string>
-	  <label>ᛖ</label>
+          <label>ᛖ</label>
           <comment>Eh</comment>
         </string>
         <string>
-	  <label>ᛗ</label>
+          <label>ᛗ</label>
           <comment>Mann</comment>
         </string>
         <string>
-	  <label>ᛚ</label>
+          <label>ᛚ</label>
           <comment>Lagu</comment>
         </string>
         <string>
-	  <label>ᛝ</label>
+          <label>ᛝ</label>
           <comment>Ing</comment>
         </string>
         <string>
-	  <label>ᛟ</label>
+          <label>ᛟ</label>
           <comment>Oðel</comment>
         </string>
         <string>
-	  <label>ᛞ</label>
+          <label>ᛞ</label>
           <comment>Dæg</comment>
         </string>
         <string>
-	  <label>ᚪ</label>
+          <label>ᚪ</label>
           <comment>Ac</comment>
         </string>
         <string>
-	  <label>ᚫ</label>
+          <label>ᚫ</label>
           <comment>Æsc</comment>
         </string>
         <string>
-	  <label>ᚣ</label>
+          <label>ᚣ</label>
           <comment>Yr</comment>
         </string>
         <string>
-	  <label>ᛡ</label>
+          <label>ᛡ</label>
           <comment>Ior</comment>
         </string>
         <string>
-	  <label>ᛠ</label>
+          <label>ᛠ</label>
           <comment>Ear</comment>
         </string>
         <string>
-	  <label>ᛢ</label>
+          <label>ᛢ</label>
           <comment>Cƿeorð</comment>
         </string>
         <string>
-	  <label>ᛣ</label>
+          <label>ᛣ</label>
           <comment>Calc</comment>
         </string>
         <string>
-	  <label>ᛤ</label>
+          <label>ᛤ</label>
           <comment>Calc</comment>
         </string>
         <string>
-	  <label>ᛥ</label>
+          <label>ᛥ</label>
           <comment>Stan</comment>
         </string>
         <string>
-	  <label>ᚸ</label>
+          <label>ᚸ</label>
           <comment>Gar</comment>
         </string>
       </table>
