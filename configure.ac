@@ -163,7 +163,7 @@ AC_MSG_RESULT($enable_python)
 if test x"$enable_python" = xyes; then
     AM_CONDITIONAL(HAVE_PYTHON, true)
     AM_PATH_PYTHON([2.5], [], [])
-    AC_PATH_PROG(PYTHON_CONFIG, python$PYTHON_VERSION-config)
+    AC_PATH_PROG(PYTHON_CONFIG, python-config-$PYTHON_VERSION)
     if test x"$PYTHON_CONFIG" != x""; then
         PYTHON_CFLAGS=`$PYTHON_CONFIG --includes`
         PYTHON_LIBS=`$PYTHON_CONFIG --libs`

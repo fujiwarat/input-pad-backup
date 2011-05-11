@@ -29,6 +29,10 @@
           <comment>Ansuz</comment>
         </string>
         <string>
+          <label>ᚱ</label>
+          <comment>Raidō</comment>
+        </string>
+        <string>
           <label>ᚲ</label>
           <comment>Kaunan</comment>
         </string>
@@ -137,7 +141,7 @@
         </string>
         <string>
           <label>ᚼ</label>
-          <comment>Kaun</comment>
+          <comment>Hagall</comment>
         </string>
         <string>
           <label>ᚽ</label>
