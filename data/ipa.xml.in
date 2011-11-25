@@ -279,6 +279,10 @@
           <_comment>Alveolar flap</_comment>
         </string>
         <string>
+          <label>ɺ</label>
+          <_comment>Alveolar lateral flap</_comment>
+        </string>
+        <string>
           <label>ʀ</label>
           <_comment>Uvular trill</_comment>
         </string>
@@ -351,8 +355,8 @@
           <_comment>Close central rounded vowel</_comment>
         </string>
        <string>
-          <label>ɥ</label>
           <!--TODO: reconsider the placement of this guy-->
+          <label>ɥ</label>
           <_comment>Labial-palatal approximant</_comment>
         </string>
        <string>
@@ -364,8 +368,8 @@
           <_comment>Voiced labiodental fricative</_comment>
         </string>
        <string>
-          <label>v</label>
-          <_comment>Voiced labiodental fricative</_comment>
+          <label>ⱱ</label>
+          <_comment>Labiodental flap</_comment>
         </string>
        <string>
           <label>ʋ</label>
@@ -452,7 +456,7 @@
           <_comment>Alveolar lateral click</_comment>
         </string>
        <string>
-          <label>ǁ</label>
+          <label>ǃ</label>
           <_comment>Postalveolar click</_comment>
         </string>
        <string>
@@ -460,8 +464,16 @@
           <_comment>Aspiration mark</_comment>
         </string>
        <string>
+          <label>ʱ</label>
+          <_comment>Breathy voice mark</_comment>
+        </string>
+       <string>
           <label>ʲ</label>
           <_comment>Palatalization mark</_comment>
+        </string>
+       <string>
+          <label>ˡ</label>
+          <_comment>Lateral release mark</_comment>
         </string>
        <string>
           <label>ʷ</label>
@@ -472,39 +484,43 @@
           <_comment>Ejection mark</_comment>
         </string>
        <string>
-          <label>̃ </label>
+          <label>˞</label>
+          <_comment>Rhotacization mark</_comment>
+        </string>
+       <string>
+          <label>&#771;</label>
           <_comment>Combining nasalization mark</_comment>
         </string>
        <string>
-          <label>̪ </label>
+          <label>&#810;</label>
           <_comment>Combining dental mark</_comment>
         </string>
        <string>
-          <label>̥ </label>
+          <label>&#805;</label>
           <_comment>Combining voiceless mark</_comment>
         </string>
        <string>
-          <label>̩ </label>
+          <label>&#809;</label>
           <_comment>Combining syllabic mark</_comment>
         </string>
        <string>
-          <label>̋ </label>
+          <label>&#779;</label>
           <_comment>Combining top tone mark</_comment>
         </string>
        <string>
-          <label>́ </label>
+          <label>&#769;</label>
           <_comment>Combining high tone mark</_comment>
         </string>
        <string>
-          <label>̄ </label>
+          <label>&#772;</label>
           <_comment>Combining mid tone mark</_comment>
         </string>
        <string>
-          <label>̀ </label>
+          <label>&#768;</label>
           <_comment>Combining low tone mark</_comment>
         </string>
        <string>
-          <label>̏ </label>
+          <label>&#783;</label>
           <_comment>Combining bottom tone mark</_comment>
         </string>
        <string>
@@ -516,15 +532,15 @@
           <_comment>Weak elongation mark</_comment>
         </string>
        <string>
-          <label> ̯ </label>
+          <label>&#815;</label>
           <_comment>Diphthong mark</_comment>
         </string>
        <string>
-          <label> ͡</label>
+          <label>&#865;</label>
           <_comment>Combining ligature tie</_comment>
         </string>
        <string>
-          <label> ͜</label>
+          <label>&#860;</label>
           <_comment>Combining ligature undertie</_comment>
         </string>
        <string>
