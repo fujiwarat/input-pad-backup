@@ -480,6 +480,22 @@
           <_comment>Labialization mark</_comment>
         </string>
        <string>
+          <label>ˠ</label>
+          <_comment>Velarization mark</_comment>
+        </string>
+       <string>
+          <label>ˤ</label>
+          <_comment>Pharyngealization mark</_comment>
+        </string>
+       <string>
+          <label>&#816;</label>
+          <_comment>Combining laryngealization mark</_comment>
+        </string>
+       <string>
+          <label>&#802;</label>
+          <_comment>Combining retroflexion mark</_comment>
+        </string>
+       <string>
           <label>’</label>
           <_comment>Ejection mark</_comment>
         </string>
@@ -488,16 +504,40 @@
           <_comment>Rhotacization mark</_comment>
         </string>
        <string>
+          <label>&#810;</label>
+          <_comment>Combining dentalization mark</_comment>
+        </string>
+       <string>
+          <label>&#828;</label>
+          <_comment>Combining linguolabialization mark</_comment>
+        </string>
+       <string>
+          <label>&#826;</label>
+          <_comment>Combining apicalization mark</_comment>
+        </string>
+       <string>
+          <label>&#776;</label>
+          <_comment>Combining centralization mark</_comment>
+        </string>
+       <string>
+          <label>&#829;</label>
+          <_comment>Combining mid-centralization mark</_comment>
+        </string>
+       <string>
           <label>&#771;</label>
           <_comment>Combining nasalization mark</_comment>
         </string>
        <string>
-          <label>&#810;</label>
-          <_comment>Combining dental mark</_comment>
-        </string>
-       <string>
           <label>&#805;</label>
           <_comment>Combining voiceless mark</_comment>
+        </string>
+       <string>
+          <label>&#825;</label>
+          <_comment>Combining more rounded mark</_comment>
+        </string>
+       <string>
+          <label>&#796;</label>
+          <_comment>Combining less rounded mark</_comment>
         </string>
        <string>
           <label>&#809;</label>
@@ -532,8 +572,24 @@
           <_comment>Weak elongation mark</_comment>
         </string>
        <string>
+          <label>˔</label>
+          <_comment>Raised sound mark</_comment>
+        </string>
+       <string>
+          <label>˕</label>
+          <_comment>Lowered sound mark</_comment>
+        </string>
+       <string>
+          <label>&#797;</label>
+          <_comment>Combining raised sound mark</_comment>
+        </string>
+       <string>
+          <label>&#798;</label>
+          <_comment>Combining lowered sound mark</_comment>
+        </string>
+       <string>
           <label>&#815;</label>
-          <_comment>Diphthong mark</_comment>
+          <_comment>Combining diphthong mark</_comment>
         </string>
        <string>
           <label>&#865;</label>
@@ -554,6 +610,14 @@
        <string>
           <label>.</label>
           <_comment>Syllable break</_comment>
+        </string>
+       <string>
+          <label>⟨</label>
+          <_comment>Opening orthographic bracket</_comment>
+        </string>
+       <string>
+          <label>⟩</label>
+          <_comment>Closing orthographic bracket</_comment>
         </string>
       </table>
 </dummy>
