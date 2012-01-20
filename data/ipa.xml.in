@@ -396,6 +396,10 @@
           <_comment>Velar approximant</_comment>
         </string>
        <string>
+          <label>ʬ</label>
+          <_comment>Bilabial percussive</_comment>
+        </string>
+       <string>
           <label>x</label>
           <_comment>Voiceless velar fricative</_comment>
         </string>
@@ -460,8 +464,17 @@
           <_comment>Postalveolar click</_comment>
         </string>
        <string>
+          <label>ʭ</label>
+          <_comment>Bidental percussive</_comment>
+        </string>
+       <string>
           <label>ʰ</label>
           <_comment>Aspiration mark</_comment>
+        </string>
+       <string>
+          <!--TODO: reconsider the placement of this guy-->
+          <label>⁼</label>
+          <_comment>Non-aspiration mark</_comment>
         </string>
        <string>
           <label>ʱ</label>
@@ -474,6 +487,10 @@
        <string>
           <label>ˡ</label>
           <_comment>Lateral release mark</_comment>
+        </string>
+       <string>
+          <label>ᶹ</label>
+          <_comment>Labiodentalization mark</_comment>
         </string>
        <string>
           <label>ʷ</label>
@@ -528,8 +545,16 @@
           <_comment>Combining nasalization mark</_comment>
         </string>
        <string>
+          <label>&#812;</label>
+          <_comment>Combining voiced mark</_comment>
+        </string>
+       <string>
           <label>&#805;</label>
           <_comment>Combining voiceless mark</_comment>
+        </string>
+       <string>
+          <label>&#816;</label>
+          <_comment>Combining creaky voice mark</_comment>
         </string>
        <string>
           <label>&#825;</label>
@@ -590,6 +615,14 @@
        <string>
           <label>&#815;</label>
           <_comment>Combining diphthong mark</_comment>
+        </string>
+       <string>
+          <label>↑</label>
+          <_comment>Egression mark</_comment>
+        </string>
+       <string>
+          <label>↓</label>
+          <_comment>Ingression mark</_comment>
         </string>
        <string>
           <label>&#865;</label>
