@@ -140,10 +140,6 @@
           <_comment>Voiceless labiodental fricative</_comment>
         </string>
         <string>
-          <label>f</label>
-          <_comment>Voiceless labiodental fricative</_comment>
-        </string>
-        <string>
           <label>ɡ</label>
           <_comment>Voiced velar plosive</_comment>
         </string>
@@ -154,6 +150,10 @@
         <string>
           <label>ɢ</label>
           <_comment>Voiced uvular plosive</_comment>
+        </string>
+        <string>
+          <label>ʛ</label>
+          <_comment>Voiced uvular implosive</_comment>
         </string>
         <string>
           <label>h</label>
@@ -497,12 +497,20 @@
           <_comment>Dental click</_comment>
         </string>
         <string>
+          <label>ǂ</label>
+          <_comment>Palato-alveolar click</_comment>
+        </string>
+        <string>
           <label>ǁ</label>
           <_comment>Alveolar lateral click</_comment>
         </string>
         <string>
           <label>ǃ</label>
           <_comment>Postalveolar click</_comment>
+        </string>
+        <string>
+          <label>ʘ</label>
+          <_comment>Bilabial click</_comment>
         </string>
         <string>
           <label>ʭ</label>
