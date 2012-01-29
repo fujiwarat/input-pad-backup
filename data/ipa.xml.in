@@ -140,10 +140,6 @@
           <_comment>Voiceless labiodental fricative</_comment>
         </string>
         <string>
-          <label>f</label>
-          <_comment>Voiceless labiodental fricative</_comment>
-        </string>
-        <string>
           <label>ɡ</label>
           <_comment>Voiced velar plosive</_comment>
         </string>
@@ -156,6 +152,10 @@
           <_comment>Voiced uvular plosive</_comment>
         </string>
         <string>
+          <label>ʛ</label>
+          <_comment>Voiced uvular implosive</_comment>
+        </string>
+        <string>
           <label>h</label>
           <_comment>Voiceless glottal fricative</_comment>
         </string>
@@ -166,6 +166,10 @@
         <string>
           <label>ħ</label>
           <_comment>Voiceless pharyngeal fricative</_comment>
+        </string>
+        <string>
+          <label>ɧ</label>
+          <_comment>Voiceless coarticulated velar and palatoalveolar fricative</_comment>
         </string>
         <string>
           <label>ʜ</label>
@@ -497,12 +501,20 @@
           <_comment>Dental click</_comment>
         </string>
         <string>
+          <label>ǂ</label>
+          <_comment>Palato-alveolar click</_comment>
+        </string>
+        <string>
           <label>ǁ</label>
           <_comment>Alveolar lateral click</_comment>
         </string>
         <string>
           <label>ǃ</label>
           <_comment>Postalveolar click</_comment>
+        </string>
+        <string>
+          <label>ʘ</label>
+          <_comment>Bilabial click</_comment>
         </string>
         <string>
           <label>ʭ</label>
@@ -528,6 +540,10 @@
         <string>
           <label>ˡ</label>
           <_comment>Lateral release mark</_comment>
+        </string>
+        <string>
+          <label>ⁿ</label>
+          <_comment>Nasal release mark</_comment>
         </string>
         <string>
           <label>ᶣ</label>
@@ -570,6 +586,10 @@
           <_comment>Combining dentalization mark</_comment>
         </string>
         <string>
+          <label>&#838;</label>
+          <_comment>Combining dentolabialization mark</_comment>
+        </string>
+        <string>
           <label>&#828;</label>
           <_comment>Combining linguolabialization mark</_comment>
         </string>
@@ -588,6 +608,14 @@
         <string>
           <label>&#771;</label>
           <_comment>Combining nasalization mark</_comment>
+        </string>
+        <string>
+          <label>&#808;</label>
+          <_comment>Combining nasalization mark below</_comment>
+        </string>
+        <string>
+          <label>&#842;</label>
+          <_comment>Combining denasalization mark</_comment>
         </string>
         <string>
           <label>&#827;</label>
@@ -666,8 +694,16 @@
           <_comment>Combining lowered sound mark</_comment>
         </string>
         <string>
-          <label>&#815;</label>
-          <_comment>Combining diphthong mark</_comment>
+          <label>&#840;</label>
+          <_comment>Combining strong articulation mark</_comment>
+        </string>
+        <string>
+          <label>&#841;</label>
+          <_comment>Combining weak articulation mark</_comment>
+        </string>
+        <string>
+          <label>&#866;</label>
+          <_comment>Combining sliding articulation mark</_comment>
         </string>
         <string>
           <label>↑</label>
@@ -676,6 +712,10 @@
         <string>
           <label>↓</label>
           <_comment>Ingression mark</_comment>
+        </string>
+        <string>
+          <label>&#815;</label>
+          <_comment>Combining diphthong mark</_comment>
         </string>
         <string>
           <label>&#865;</label>
