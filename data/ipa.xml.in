@@ -634,10 +634,6 @@
           <_comment>Combining unreleased stop mark</_comment>
         </string>
         <string>
-          <label>&#816;</label>
-          <_comment>Combining creaky voice mark</_comment>
-        </string>
-        <string>
           <label>&#825;</label>
           <_comment>Combining more rounded mark</_comment>
         </string>
@@ -668,6 +664,86 @@
         <string>
           <label>&#783;</label>
           <_comment>Combining bottom tone mark</_comment>
+        </string>
+        <string>
+          <label>&#710;</label>
+          <_comment>Combining falling tone mark</_comment>
+        </string>
+        <string>
+          <label>&#7623;</label>
+          <_comment>Combining high falling tone mark</_comment>
+        </string>
+        <string>
+          <label>&#7622;</label>
+          <_comment>Combining low falling tone mark</_comment>
+        </string>
+        <string>
+          <label>&#780;</label>
+          <_comment>Combining rising tone mark</_comment>
+        </string>
+        <string>
+          <label>&#7620;</label>
+          <_comment>Combining high rising tone mark</_comment>
+        </string>
+        <string>
+          <label>&#7621;</label>
+          <_comment>Combining low rising tone mark</_comment>
+        </string>
+        <string>
+          <label>&#7625;</label>
+          <_comment>Combining dipping tone mark</_comment>
+        </string>
+        <string>
+          <label>&#7624;</label>
+          <_comment>Combining peaking tone mark</_comment>
+        </string>
+        <string>
+          <label>˥</label>
+          <_comment>Top tone letter</_comment>
+        </string>
+        <string>
+          <label>˦</label>
+          <_comment>High tone letter</_comment>
+        </string>
+        <string>
+          <label>˧</label>
+          <_comment>Mid tone letter</_comment>
+        </string>
+        <string>
+          <label>˨</label>
+          <_comment>Low tone letter</_comment>
+        </string>
+        <string>
+          <label>˩</label>
+          <_comment>Bottom tone letter</_comment>
+        </string>
+        <string>
+          <label>˥˩</label>
+          <_comment>Falling tone digraph</_comment>
+        </string>
+        <string>
+          <label>˥˧</label>
+          <_comment>High falling tone digraph</_comment>
+        </string>
+        <string>
+          <label>˨˦</label>
+          <_comment>Rising tone digraph</_comment>
+        </string>
+        <string>
+          <label>˧˥</label>
+          <_comment>High rising tone digraph</_comment>
+        </string>
+        <string>
+          <label>˩˧</label>
+          <_comment>Low rising tone digraph</_comment>
+        </string>
+        <string>
+          <label>˨˩˦</label>
+          <_comment>Dipping tone trigraph</_comment>
+        </string>
+        <string>
+          <label>˧˦˨</label>
+          <_comment>Peaking tone trigraph</_comment>
         </string>
         <string>
           <label>ː</label>
