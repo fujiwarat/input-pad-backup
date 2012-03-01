@@ -32,6 +32,7 @@ pad_in_files = \
 	latin.xml.in                                            \
 	ipa-obsolete.xml.in                                     \
 	ipa.xml.in                                              \
+	ipa-obsolete.xml.in                                     \
 	runr.xml.in                                             \
 	goth.xml.in                                             \
 	shaw.xml.in                                             \
@@ -85,6 +86,7 @@ ALPHABET_TABLE_FILES = \
 	latin.xml                                               \
 	ipa-obsolete.xml                                        \
 	ipa.xml                                                 \
+	ipa-obsolete.xml                                        \
 	runr.xml                                                \
 	goth.xml                                                \
 	shaw.xml                                                \
@@ -94,6 +96,7 @@ alphabet.xml : alphabet.xml.in $(ALPHABET_TABLE_FILES)
 	@sed -e "/@latin@/r latin.xml"                          \
 	     -e "/@ipa-obsolete@/r ipa-obsolete.xml"            \
 	     -e "/@ipa@/r ipa.xml"                              \
+	     -e "/@ipa-obsolete@/r ipa-obsolete.xml"            \
 	     -e "/@runr@/r runr.xml"                            \
 	     -e "/@goth@/r goth.xml"                            \
 	     -e "/@shaw@/r shaw.xml"                            \
