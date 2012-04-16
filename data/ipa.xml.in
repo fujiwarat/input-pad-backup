@@ -65,7 +65,7 @@
         </string>
         <string>
           <label>ɕ</label>
-          <_comment>Voiceless alveolo-palatal fricative</_comment>
+          <_comment>Voiceless alveopalatal fricative</_comment>
         </string>
         <string>
           <label>d</label>
@@ -93,11 +93,11 @@
         </string>
         <string>
           <label>d͡ʒ</label>
-          <_comment>Voiced post-alveolar affricate</_comment>
+          <_comment>Voiced palato-alveolar affricate</_comment>
         </string>
         <string>
           <label>d͡ʑ</label>
-          <_comment>Voiced alveolo-palatal affricate</_comment>
+          <_comment>Voiced alveopalatal affricate</_comment>
         </string>
         <string>
           <label>d͡ʐ</label>
@@ -169,7 +169,7 @@
         </string>
         <string>
           <label>ɧ</label>
-          <_comment>Voiceless coarticulated velar and palatoalveolar fricative</_comment>
+          <_comment>Voiceless coarticulated velar and palato-alveolar fricative</_comment>
         </string>
         <string>
           <label>ʜ</label>
@@ -341,7 +341,7 @@
         </string>
         <string>
           <label>ʃ</label>
-          <_comment>Voiceless postaveolar fricative</_comment>
+          <_comment>Voiceless palato-alveolar fricative</_comment>
         </string>
         <string>
           <label>ʂ</label>
@@ -365,11 +365,11 @@
         </string>
         <string>
           <label>t͡ʃ</label>
-          <_comment>Voiceless postalveolar affricate</_comment>
+          <_comment>Voiceless palato-alveolar affricate</_comment>
         </string>
         <string>
           <label>t͡ɕ</label>
-          <_comment>Voiceless alveolo-palatal affricate</_comment>
+          <_comment>Voiceless alveopalatal affricate</_comment>
         </string>
         <string>
           <label>t͡ʂ</label>
@@ -462,11 +462,11 @@
         </string>
         <string>
           <label>ʒ</label>
-          <_comment>Voiced postalveolar fricative</_comment>
+          <_comment>Voiced palato-alveolar fricative</_comment>
         </string>
         <string>
           <label>ʑ</label>
-          <_comment>Voiced alveolo-palatal fricative</_comment>
+          <_comment>Voiced alveopalatal fricative</_comment>
         </string>
         <string>
           <label>ʐ</label>
