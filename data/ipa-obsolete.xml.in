@@ -18,7 +18,7 @@
         </string>
         <string>
           <label>ʣ</label>
-          <_comment>Voiced dental affricate</_comment>
+          <_comment>Voiced alveolar affricate</_comment>
         </string>
         <string>
           <label>ʥ</label>
@@ -50,7 +50,7 @@
         </string>
         <string>
           <label>ʨ</label>
-          <_comment>Voiceless alveolopalatal affricate</_comment>
+          <_comment>Voiceless alveopalatal affricate</_comment>
         </string>
         <string>
           <label>ʦ</label>
