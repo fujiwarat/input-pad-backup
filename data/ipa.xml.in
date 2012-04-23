@@ -36,6 +36,10 @@
           <_comment>Voiced bilabial plosive</_comment>
         </string>
         <string>
+          <label>b̪͡v</label>
+          <_comment>Voiced labiodental affricate</_comment>
+        </string>
+        <string>
           <label>ɓ</label>
           <_comment>Voiced bilabial implosive</_comment>
         </string>
@@ -140,6 +144,10 @@
           <_comment>Voiceless labiodental fricative</_comment>
         </string>
         <string>
+          <label>ʩ</label>
+          <_comment>Velopharyngeal fricative</_comment>
+        </string>
+        <string>
           <label>ɡ</label>
           <_comment>Voiced velar plosive</_comment>
         </string>
@@ -220,6 +228,10 @@
           <_comment>Voiceless velar lateral affricate</_comment>
         </string>
         <string>
+          <label>k͡x</label>
+          <_comment>Voiceless velar affricate</_comment>
+        </string>
+        <string>
           <label>l</label>
           <_comment>Alveolar lateral approximant</_comment>
         </string>
@@ -298,6 +310,18 @@
         <string>
           <label>p</label>
           <_comment>Voiceless bilabial plosive</_comment>
+        </string>
+        <string>
+          <label>p͡f</label>
+          <_comment>Voiceless bilabial-labiodental affricate</_comment>
+        </string>
+        <string>
+          <label>p͡ɸ</label>
+          <_comment>Voiceless bilabial affricate</_comment>
+        </string>
+        <string>
+          <label>p̪͡f</label>
+          <_comment>Voiceless labiodental affricate</_comment>
         </string>
         <string>
           <label>q</label>
@@ -590,6 +614,10 @@
           <_comment>Combining dentolabialization mark</_comment>
         </string>
         <string>
+          <label>&#839;</label>
+          <_comment>Combining alveolarization mark</_comment>
+        </string>
+        <string>
           <label>&#828;</label>
           <_comment>Combining linguolabialization mark</_comment>
         </string>
@@ -618,6 +646,14 @@
           <_comment>Combining denasalization mark</_comment>
         </string>
         <string>
+          <label>&#843;</label>
+          <_comment>Combining nasal friction mark</_comment>
+        </string>
+        <string>
+          <label>&#844;</label>
+          <_comment>Combining velopharyngeal friction mark</_comment>
+        </string>
+        <string>
           <label>&#827;</label>
           <_comment>Combining laminalization mark</_comment>
         </string>
@@ -640,6 +676,10 @@
         <string>
           <label>&#796;</label>
           <_comment>Combining less rounded mark</_comment>
+        </string>
+        <string>
+          <label>&#845;</label>
+          <_comment>Combining labial spreading mark</_comment>
         </string>
         <string>
           <label>&#809;</label>
@@ -776,6 +816,10 @@
         <string>
           <label>&#841;</label>
           <_comment>Combining weak articulation mark</_comment>
+        </string>
+        <string>
+          <label>&#846;</label>
+          <_comment>Combining whistled articulation mark</_comment>
         </string>
         <string>
           <label>&#866;</label>
