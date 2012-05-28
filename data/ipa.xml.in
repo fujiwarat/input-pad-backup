@@ -1,6 +1,6 @@
 <dummy>
       <table>
-        <column>10</column>
+        <column>15</column>
         <!--"IPA" stands for "International Phonetic Alphabet"-->
         <_name>IPA</_name>
         <string>
@@ -521,24 +521,24 @@
           <_comment>Voiced epiglottal fricative</_comment>
         </string>
         <string>
+          <label>ʘ</label>
+          <_comment>Bilabial click</_comment>
+        </string>
+        <string>
           <label>ǀ</label>
           <_comment>Dental click</_comment>
         </string>
         <string>
+          <label>ǃ</label>
+          <_comment>Alveolar click</_comment>
+        </string>
+        <string>
           <label>ǂ</label>
-          <_comment>Palato-alveolar click</_comment>
+          <_comment>Palatal click</_comment>
         </string>
         <string>
           <label>ǁ</label>
           <_comment>Alveolar lateral click</_comment>
-        </string>
-        <string>
-          <label>ǃ</label>
-          <_comment>Postalveolar click</_comment>
-        </string>
-        <string>
-          <label>ʘ</label>
-          <_comment>Bilabial click</_comment>
         </string>
         <string>
           <label>ʭ</label>
@@ -585,6 +585,10 @@
           <label>ˠ</label>
           <_comment>Velarization mark</_comment>
         </string>
+       <string>
+          <label>ˀ</label>
+          <_comment>Glottalization mark</_comment>
+        </string>
         <string>
           <label>ˤ</label>
           <_comment>Pharyngealization mark</_comment>
@@ -626,6 +630,10 @@
           <_comment>Combining apicalization mark</_comment>
         </string>
         <string>
+          <label>&#827;</label>
+          <_comment>Combining laminalization mark</_comment>
+        </string>
+        <string>
           <label>&#776;</label>
           <_comment>Combining centralization mark</_comment>
         </string>
@@ -654,16 +662,16 @@
           <_comment>Combining velopharyngeal friction mark</_comment>
         </string>
         <string>
-          <label>&#827;</label>
-          <_comment>Combining laminalization mark</_comment>
-        </string>
-        <string>
           <label>&#812;</label>
           <_comment>Combining voiced mark</_comment>
         </string>
         <string>
           <label>&#805;</label>
           <_comment>Combining voiceless mark</_comment>
+        </string>
+        <string>
+          <label>&#804;</label>
+          <_comment>Combining breathy voice mark</_comment>
         </string>
         <string>
           <label>&#794;</label>
@@ -808,6 +816,14 @@
         <string>
           <label>&#798;</label>
           <_comment>Combining lowered sound mark</_comment>
+        </string>
+        <string>
+          <label>&#792;</label>
+          <_comment>Combining tongue root advancement mark</_comment>
+        </string>
+        <string>
+          <label>&#793;</label>
+          <_comment>Combining tongue root retraction mark</_comment>
         </string>
         <string>
           <label>&#840;</label>
