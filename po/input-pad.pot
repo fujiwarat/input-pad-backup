@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: input-pad HEAD\n"
 "Report-Msgid-Bugs-To: http://code.google.com/p/input-pad/issues/list\n"
-"POT-Creation-Date: 2012-06-27 19:59+0900\n"
+"POT-Creation-Date: 2012-07-14 02:01-0400\n"
 "PO-Revision-Date: 2012-06-22 17:50+0900\n"
 "Last-Translator: Takao Fujiwara <takao.fujiwara1@gmail.com>\n"
 "Language-Team: Source\n"
@@ -425,79 +425,163 @@ msgid "Open back unrounded vowel"
 msgstr ""
 
 #: ../data/ipa-obsolete.xml.in.h:4
+msgid "Palatalized voiced bilabial plosive"
+msgstr ""
+
+#: ../data/ipa-obsolete.xml.in.h:5
 msgid "Voiceless palatal implosive"
 msgstr ""
 
-#: ../data/ipa-obsolete.xml.in.h:5 ../data/ipa.xml.in.h:138
+#: ../data/ipa-obsolete.xml.in.h:6 ../data/ipa.xml.in.h:138
 msgid "Alveolar click"
 msgstr ""
 
-#: ../data/ipa-obsolete.xml.in.h:6 ../data/ipa.xml.in.h:25
+#: ../data/ipa-obsolete.xml.in.h:7
+msgid "Palatalized voiced alveolar plosive"
+msgstr ""
+
+#: ../data/ipa-obsolete.xml.in.h:8 ../data/ipa.xml.in.h:25
 msgid "Voiced alveolar affricate"
 msgstr ""
 
-#: ../data/ipa-obsolete.xml.in.h:7 ../data/ipa.xml.in.h:27
+#: ../data/ipa-obsolete.xml.in.h:9 ../data/ipa.xml.in.h:27
 msgid "Voiced alveopalatal affricate"
 msgstr ""
 
-#: ../data/ipa-obsolete.xml.in.h:8 ../data/ipa.xml.in.h:26
+#: ../data/ipa-obsolete.xml.in.h:10 ../data/ipa.xml.in.h:26
 msgid "Voiced palato-alveolar affricate"
 msgstr ""
 
-#: ../data/ipa-obsolete.xml.in.h:9
-msgid "Voiceless velar implosive"
-msgstr ""
-
-#: ../data/ipa-obsolete.xml.in.h:10
-msgid "Syllabic alveolar nasal"
-msgstr ""
-
 #: ../data/ipa-obsolete.xml.in.h:11
-msgid "Voiceless bilabial implosive"
+msgid "Palatalized voiceless labiodental fricative"
 msgstr ""
 
 #: ../data/ipa-obsolete.xml.in.h:12
-msgid "Voiced strident apico-alveolar trill"
+msgid "Palatalized voiced velar plosive"
 msgstr ""
 
-#: ../data/ipa-obsolete.xml.in.h:13 ../data/ipa.xml.in.h:19
-msgid "Voiceless alveopalatal fricative"
+#: ../data/ipa-obsolete.xml.in.h:13
+msgid "Palatalized voiceless velar plosive"
 msgstr ""
 
-#: ../data/ipa-obsolete.xml.in.h:14 ../data/ipa.xml.in.h:103
-msgid "Voiceless alveopalatal affricate"
+#: ../data/ipa-obsolete.xml.in.h:14
+msgid "Voiceless velar implosive"
 msgstr ""
 
-#: ../data/ipa-obsolete.xml.in.h:15 ../data/ipa.xml.in.h:101
-msgid "Voiceless alveolar affricate"
+#: ../data/ipa-obsolete.xml.in.h:15
+msgid "Palatalized alveolar lateral approximant"
 msgstr ""
 
-#: ../data/ipa-obsolete.xml.in.h:16 ../data/ipa.xml.in.h:102
-msgid "Voiceless palato-alveolar affricate"
+#: ../data/ipa-obsolete.xml.in.h:16
+msgid "Palatalized bilabial nasal"
 msgstr ""
 
 #: ../data/ipa-obsolete.xml.in.h:17
-msgid "Voiceless alveolar implosive"
+msgid "Palatalized alveolar nasal"
 msgstr ""
 
-#: ../data/ipa-obsolete.xml.in.h:18 ../data/ipa.xml.in.h:137
-msgid "Dental click"
+#: ../data/ipa-obsolete.xml.in.h:18
+msgid "Syllabic alveolar nasal"
 msgstr ""
 
 #: ../data/ipa-obsolete.xml.in.h:19
+msgid "Palatalized voiceless bilabial plosive"
+msgstr ""
+
+#: ../data/ipa-obsolete.xml.in.h:20
+msgid "Voiceless bilabial implosive"
+msgstr ""
+
+#: ../data/ipa-obsolete.xml.in.h:21
+msgid "Palatalized alveolar trill"
+msgstr ""
+
+#: ../data/ipa-obsolete.xml.in.h:22
+msgid "Voiced strident apico-alveolar trill"
+msgstr ""
+
+#: ../data/ipa-obsolete.xml.in.h:23
+msgid "Palatalized voiceless alveolar fricative"
+msgstr ""
+
+#: ../data/ipa-obsolete.xml.in.h:24 ../data/ipa.xml.in.h:19
+msgid "Voiceless alveopalatal fricative"
+msgstr ""
+
+#: ../data/ipa-obsolete.xml.in.h:25
+msgid "Labialized voiceless palato-alveolar fricative"
+msgstr ""
+
+#: ../data/ipa-obsolete.xml.in.h:26 ../data/ipa.xml.in.h:103
+msgid "Voiceless alveopalatal affricate"
+msgstr ""
+
+#: ../data/ipa-obsolete.xml.in.h:27 ../data/ipa.xml.in.h:101
+msgid "Voiceless alveolar affricate"
+msgstr ""
+
+#: ../data/ipa-obsolete.xml.in.h:28 ../data/ipa.xml.in.h:102
+msgid "Voiceless palato-alveolar affricate"
+msgstr ""
+
+#: ../data/ipa-obsolete.xml.in.h:29
+msgid "Palatalized voiceless alveolar plosive"
+msgstr ""
+
+#: ../data/ipa-obsolete.xml.in.h:30
+msgid "Voiceless alveolar implosive"
+msgstr ""
+
+#: ../data/ipa-obsolete.xml.in.h:31 ../data/ipa.xml.in.h:137
+msgid "Dental click"
+msgstr ""
+
+#: ../data/ipa-obsolete.xml.in.h:32
 msgid "Voiceless uvular implosive"
 msgstr ""
 
-#: ../data/ipa-obsolete.xml.in.h:20 ../data/ipa.xml.in.h:128
+#: ../data/ipa-obsolete.xml.in.h:33
+msgid "Palatalized voiced labiodental fricative"
+msgstr ""
+
+#: ../data/ipa-obsolete.xml.in.h:34
+msgid "Palatalized voiceless velar fricative"
+msgstr ""
+
+#: ../data/ipa-obsolete.xml.in.h:35
+msgid "Palatalized voiced alveolar fricative"
+msgstr ""
+
+#: ../data/ipa-obsolete.xml.in.h:36
+msgid "Labialized voiced palato-alveolar fricative"
+msgstr ""
+
+#: ../data/ipa-obsolete.xml.in.h:37 ../data/ipa.xml.in.h:128
 msgid "Voiced alveopalatal fricative"
 msgstr ""
 
-#: ../data/ipa-obsolete.xml.in.h:21 ../data/ipa.xml.in.h:106
+#: ../data/ipa-obsolete.xml.in.h:38 ../data/ipa.xml.in.h:106
 msgid "Near-close near-back vowel"
 msgstr ""
 
-#: ../data/ipa-obsolete.xml.in.h:22 ../data/ipa.xml.in.h:140
+#: ../data/ipa-obsolete.xml.in.h:39 ../data/ipa.xml.in.h:140
 msgid "Alveolar lateral click"
+msgstr ""
+
+#: ../data/ipa-obsolete.xml.in.h:40
+msgid "Labialized voiceless alveolar or dental fricative"
+msgstr ""
+
+#: ../data/ipa-obsolete.xml.in.h:41
+msgid "Labialized voiced alveolar or dental fricative"
+msgstr ""
+
+#: ../data/ipa-obsolete.xml.in.h:42
+msgid "Combining labialization mark"
+msgstr ""
+
+#: ../data/ipa-obsolete.xml.in.h:43
+msgid "Combining palatalization mark"
 msgstr ""
 
 #. "IPA" stands for "International Phonetic Alphabet"
@@ -517,54 +601,58 @@ msgstr ""
 msgid "Voiced retroflex implosive"
 msgstr ""
 
-#: ../data/ipa-unofficial.xml.in.h:6 ../data/ipa.xml.in.h:125
+#: ../data/ipa-unofficial.xml.in.h:6 ../data/ipa.xml.in.h:88
+msgid "Alveolar flap"
+msgstr ""
+
+#: ../data/ipa-unofficial.xml.in.h:7 ../data/ipa.xml.in.h:125
 msgid "Voiceless palatal lateral fricative"
 msgstr ""
 
-#: ../data/ipa-unofficial.xml.in.h:7 ../data/ipa.xml.in.h:91
+#: ../data/ipa-unofficial.xml.in.h:8 ../data/ipa.xml.in.h:91
 msgid "Retroflex flap"
 msgstr ""
 
-#: ../data/ipa-unofficial.xml.in.h:8
+#: ../data/ipa-unofficial.xml.in.h:9
 msgid "Voiceless retroflex lateral fricative"
 msgstr ""
 
 #. "PUA" stands for "Private Use Area"
-#: ../data/ipa-unofficial.xml.in.h:10
+#: ../data/ipa-unofficial.xml.in.h:11
 msgid "Voiceless retroflex lateral fricative (PUA)"
 msgstr ""
 
-#: ../data/ipa-unofficial.xml.in.h:11 ../data/ipa.xml.in.h:59
+#: ../data/ipa-unofficial.xml.in.h:12 ../data/ipa.xml.in.h:59
 msgid "Voiceless velar lateral affricate"
 msgstr ""
 
-#: ../data/ipa-unofficial.xml.in.h:12 ../data/ipa.xml.in.h:68
+#: ../data/ipa-unofficial.xml.in.h:13 ../data/ipa.xml.in.h:68
 msgid "Voiceless velar lateral fricative"
 msgstr ""
 
-#: ../data/ipa-unofficial.xml.in.h:13
+#: ../data/ipa-unofficial.xml.in.h:14
 msgid "Epiglottal trill"
 msgstr ""
 
-#: ../data/ipa-unofficial.xml.in.h:14
+#: ../data/ipa-unofficial.xml.in.h:15
 msgid "Voiceless labiodental plosive"
 msgstr ""
 
-#: ../data/ipa-unofficial.xml.in.h:15
+#: ../data/ipa-unofficial.xml.in.h:16
 msgid "Voiceless retroflex lateral affricate"
 msgstr ""
 
 #. "PUA" stands for "Private Use Area"
-#: ../data/ipa-unofficial.xml.in.h:17
+#: ../data/ipa-unofficial.xml.in.h:18
 msgid "Voiceless retroflex lateral affricate (PUA)"
 msgstr ""
 
-#: ../data/ipa-unofficial.xml.in.h:18
+#: ../data/ipa-unofficial.xml.in.h:19
 msgid "Combining stridency mark"
 msgstr ""
 
 #. "PUA" stands for "Private Use Area"
-#: ../data/ipa-unofficial.xml.in.h:20
+#: ../data/ipa-unofficial.xml.in.h:21
 msgid "Combining stridency mark (PUA)"
 msgstr ""
 
@@ -879,10 +967,6 @@ msgstr ""
 
 #: ../data/ipa.xml.in.h:87
 msgid "Alveolar trill"
-msgstr ""
-
-#: ../data/ipa.xml.in.h:88
-msgid "Alveolar flap"
 msgstr ""
 
 #: ../data/ipa.xml.in.h:89
