@@ -24,7 +24,11 @@
           <_comment>Open back rounded vowel</_comment>
         </string>
         <string>
-          <label>ʌ</label>
+          <!-- For some reason, certain apps think that wedge
+               and capital lambda are equivalent
+               ... including git, so... I'll just use this
+               entity... -->
+          <label>&#652;</label>
           <_comment>Open-mid back unrounded vowel</_comment>
         </string>
         <string>

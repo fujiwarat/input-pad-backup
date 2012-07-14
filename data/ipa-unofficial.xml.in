@@ -24,6 +24,10 @@
           <label>ᶑ</label>
           <_comment>Voiced retroflex implosive</_comment>
         </string>
+        <string>
+          <label>ᴅ</label>
+          <_comment>Alveolar flap</_comment>
+        </string>
         <!-- This is a PUA character -->
         <string>
           <label></label>
